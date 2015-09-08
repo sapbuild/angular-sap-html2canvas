@@ -2,7 +2,7 @@
   "title": "angular-sap-html2canvas",
   "name": "angular-sap-html2canvas",
   "description": "node/browserify wrap around html2canvas library",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "node": ">=0.8.0"
   },
